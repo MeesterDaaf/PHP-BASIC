@@ -41,7 +41,7 @@ Duidelijk maken hoe het succesvol maken van de taak eruit ziet. Dit kan tekstuee
 > Voorbeeld:  
 > Als je de functie goed uitvoert wordt de volgende tekst getoond in je browser: "functie uitgevoerd"  
 
-## Bronnen
+## Bronnennn
 
 Een lijstje van links naar externe bronnen
 > Bijvoorbeeld:  
